@@ -1,0 +1,13 @@
+name: NameChangeHistory
+main: de.sabbertran.namechangehistory.NameChangeHistory
+version: 1.0
+website: http://www.sabbertran.de
+author: Sabbertran
+description: Name Change History plugin
+commands:
+  namechangehistory:
+    description: NameChangeHistory Command
+    aliases: [namechange, nch]
+    usage: "/namechangehistory 'player'\n
+             §cRemove all 's"
+    
